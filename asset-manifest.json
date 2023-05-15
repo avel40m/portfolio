@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.955ad3f8.css",
-    "main.js": "/static/js/main.d0068882.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "index.html": "/index.html",
-    "main.955ad3f8.css.map": "/static/css/main.955ad3f8.css.map",
-    "main.d0068882.js.map": "/static/js/main.d0068882.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/avel40m.github.io/portfolio/static/css/main.955ad3f8.css",
+    "main.js": "/avel40m.github.io/portfolio/static/js/main.5529b9b6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/avel40m.github.io/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/avel40m.github.io/portfolio/index.html",
+    "main.955ad3f8.css.map": "/avel40m.github.io/portfolio/static/css/main.955ad3f8.css.map",
+    "main.5529b9b6.js.map": "/avel40m.github.io/portfolio/static/js/main.5529b9b6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/avel40m.github.io/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.955ad3f8.css",
-    "static/js/main.d0068882.js"
+    "static/js/main.5529b9b6.js"
   ]
 }
